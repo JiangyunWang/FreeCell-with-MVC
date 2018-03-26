@@ -1,0 +1,9 @@
+A Game: 
+FreeCell with MVC(except view). 
+The OOD is to use MVC model. 
+Freecell is a Solitaire-type game, which uses the regular deck of 52 suit-value cards. 
+There are four suits: clubs (♣), diamonds (♦), hearts (♥), and spades (♠). 
+Hearts and diamonds are colored red; clubs and spades are colored black. 
+There are thirteen values: ace (written A), two through ten (written 2 through 10), jack (J), queen (Q) and king (K). 
+In Freecell, aces are considered “low”, or less than a two. 
+(In other games, they’re considered “high”, or greater than a king.)
